@@ -1,20 +1,20 @@
 # weather_forecast
-Weather Forecast App &nbsp; &nbsp;
+#### Weather Forecast App &nbsp; &nbsp;
 
-Features:  &nbsp;
-GetCurrentLocation for weather forecast &nbsp;
-16 days of forecast any city you can search &nbsp;
-current weather details of any city or current location &nbsp;
-Internet connection handling &nbsp;
-PermissionHandling &nbsp;
-Error Handlings with dialog queue &nbsp;
-Light-Dark Mode (save state) &nbsp;
-Unit test for use-cases &nbsp;
+### Features:  &nbsp;
+GetCurrentLocation for weather forecast **Enter**
+16 days of forecast any city you can search **Enter**
+current weather details of any city or current location **Enter**
+Internet connection handling **Enter**
+PermissionHandling **Enter**
+Error Handlings with dialog queue **Enter**
+Light-Dark Mode (save state) **Enter**
+Unit test for use-cases **Enter**
 
-Technologies:  &nbsp;
-Jetpack Compose &nbsp;
-AndroidX Libraries &nbsp;
-Coroutines and Flows &nbsp;
-Retrofit - Gson &nbsp;
-Clean Architecture &nbsp;
-Latest technologies and libraries available &nbsp;
+#### Technologies:  **Enter**
+Jetpack Compose **Enter**
+AndroidX Libraries **Enter**
+Coroutines and Flows **Enter**
+Retrofit - Gson **Enter**
+Clean Architecture **Enter**
+Latest technologies and libraries available **Enter**
