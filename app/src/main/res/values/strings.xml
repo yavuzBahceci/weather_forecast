@@ -1,0 +1,34 @@
+
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="feature_not_available">That feature is not available</string>
+    <string name="Error">Error</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Ok">Ok</string>
+    <string name="temperature_degrees">%d°</string>
+    <string name="min_temperature">Min</string>
+    <string name="now_temperature">Current</string>
+    <string name="max_temperature">Max</string>
+
+    <string name="location_permission_content_description">Location icon</string>
+    <string name="location_permission_description">We need your permission to access your current location to display the weather.</string>
+    <string name="location_permission_not_available">The app cannot work without location permission. Please grant it in the app\'s settings to continue.</string>
+
+    <string name="hot_text">Hot</string>
+    <string name="cold_text">Cold</string>
+    <string name="normal_text">Normal</string>
+
+    <string name="evening_text">Evening</string>
+    <string name="morning_text">Morning</string>
+    <string name="night_text">Night</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_degree">Wind Degree</string>
+    <string name="wind_gust">Wind Gust</string>
+    <string name="wind_speed">Wind Speed</string>
+
+
+</resources>
