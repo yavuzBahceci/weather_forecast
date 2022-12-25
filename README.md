@@ -1,5 +1,7 @@
 ## Weather Forecast App &nbsp; &nbsp;
 
+# Clone the project, replace "openweather.apiKey=OPENWEATHER_API_KEY" in gradle.properties with your api key.
+
 ## Features:  &nbsp;
 ##### GetCurrentLocation for weather forecast 
 ##### 16 days of forecast any city you can search
@@ -17,3 +19,5 @@
 ##### Retrofit - Gson 
 ##### Clean Architecture 
 ##### Latest technologies and libraries available
+
+
